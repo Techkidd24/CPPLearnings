@@ -21,5 +21,5 @@ int main(){
         }
         if(count==0)    cout<<arr[i];
     }
-    //cout<<"No Unique Values.";
+    cout<<"No Unique Values.";
 }

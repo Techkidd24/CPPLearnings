@@ -34,7 +34,7 @@ int main(){
         }
     }
 
-    //swapping idx and j
+    //4)swapping idx and j
     int temp=arr[idx];
     arr[idx]=arr[j];
     arr[j]=temp;

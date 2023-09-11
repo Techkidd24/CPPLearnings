@@ -26,5 +26,5 @@ int main(){
     cout<<v[0][2];
     cout<<endl;
     v.pop_back();
-    cout<<v[2][0];
+    cout<<v[2][0];  //deletes the elements and displays garbage values
 }
